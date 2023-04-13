@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "algorithm": "cpp"
+    },
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cmake.configureOnOpen": true
+}
