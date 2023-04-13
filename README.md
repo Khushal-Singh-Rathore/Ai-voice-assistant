@@ -1,6 +1,6 @@
 # chat_gpt
 
-A new Flutter project.
+An Ai voice assistant app build using flutter with openAi api of ChatGPT and Dall-E .
 
 ## Getting Started
 
